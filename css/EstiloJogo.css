@@ -1,0 +1,29 @@
+*{
+    margin:  0;
+    padding: 0;
+}
+img{
+    max-width: 100%;
+}
+
+.title{
+    color: #9999;
+    text-transform:  uppercase;
+    margin: 22px 0px;
+}
+img.carts{
+    max-width: 160px;
+}
+img.cart{
+    max-width: 145px;
+}
+.active img{
+    background: green;
+}
+.disable img
+{
+    background: rgb(250, 249, 247);
+}
+
+
+
